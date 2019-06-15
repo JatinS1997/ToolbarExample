@@ -15,5 +15,6 @@ public class MainActivity extends AppCompatActivity {
 
         toolbar=findViewById(R.id.myToolbar);
         setSupportActionBar(toolbar);
+        getSupportActionBar().setTitle("JAtin");
     }
 }
